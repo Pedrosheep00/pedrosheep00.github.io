@@ -1,0 +1,19 @@
+.form{
+    background-color: gray;
+    font-size: 30px;
+    box-shadow: 2px 2px black;
+    color: black;
+    height: 200px;
+    border-radius: 10px;
+    text-align: cente;
+    padding: 30px;
+}
+.btnn{
+    padding: 20px;
+    margin: 30px;
+    border-radius: 50%;
+    border-color: gray;
+}
+h1{
+    text-align: center;
+}

@@ -1,0 +1,36 @@
+/* Add your custom CSS here */
+body { font-family: 'Outfit', sans-serif } 
+
+.section-selector-1 { background-color: var(--trend-700) }
+.section-selector-1 > h2 { color: var(--white-000) }
+.section-selector-1 .badge { color: var(--trend-700) }
+.section-selector-1 .badge { background-color: var(--white-000); border-radius: 50%;}
+.section-selector-1 p { color: var(--white-000) }
+
+.container-media{
+    margin-top: -150px;
+}
+
+.section-selector-2 h2 { color: white }
+.section-selector-2 .col-2.col-text p { color: var(--white-000) }
+.section-selector-2  { background-color: var(--trend-900) }
+.section-selector-2 li {color: white; }
+
+.section-selector-3 { background-color: var(--trend-800) }
+.section-selector-3 h2 { color: var(--white-000) }
+.section-selector-3 .col-2.col-text p { color: var(--white-000) }
+
+.section-selector-4 { background-color: var(--trend-900) }
+.section-selector-4 h2 { color: white; }
+.section-selector-4 .col-2.col-text p { color: var(--white-000) }
+
+.section-selector-5 { background-color: var(--trend-800) }
+.section-selector-5 .col-1 h2 { color: var(--white-000) }
+.section-selector-5 .col-1 h3 { color: var(--white-000) }
+.section-selector-5 div[class^='flex-cols-'] div[class^='col-'] h3 { color: var(--white-000) }
+.section-selector-5 div[class^='flex-cols-'] div[class^='col-'] p { color: var(--white-000) }
+.section-selector-5 div[class^='flex-cols-'] div[class^='col-'] li { color: var(--white-000) }
+
+.material-symbols-outlined{
+   background-size: large;
+}
