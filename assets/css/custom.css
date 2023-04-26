@@ -149,7 +149,7 @@ header.theme-dark { background-color: var(--gray-900) }
     text-align: left;
 }
 .main h2{
-    font-size: 80px;
+    font-size: 60px;
     color: rgb(233, 208, 176);
     margin-top: 100px;
     margin-left: 100px;
